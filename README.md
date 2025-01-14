@@ -20,4 +20,4 @@
 <br>
 <h3>Video Showcase:</h3>
 <p>Watch a demo of our E-commerce Flower Shop on YouTube:</p>
-<a href="https://www.youtube.com/watch?v=xebH9ceae0g" target="_blank"><img src="https://github.com/hayaabduljabbar/Ecommerce-Flower-Shop/blob/master/assets/video%20thumbnail.png" alt="Video Thumbnail"></a>!!!!!!!
+<a href="https://www.youtube.com/watch?v=xebH9ceae0g" target="_blank"><img src="https://github.com/hayaabduljabbar/Ecommerce-Flower-Shop/blob/master/assets/video%20thumbnail.png" alt="Video Thumbnail"></a>!!!!!!!!
